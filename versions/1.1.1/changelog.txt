@@ -1,1 +1,19 @@
-Hi :)
+Version 1.1
+Added:
+	TreeHarvester
+	Enchanced Block Entities
+	Distant Horizons
+	Tax Free Levels
+	Inventory Profiles Next
+	Mouse Tweaks
+	Stack to nearby chests
+	Enchant the rainbow
+	Over Enchanted
+	Easy Magic
+	Easy Anvils
+	Create Jetpack
+	Spectrum Jetpacks
+	Iron Jetpacks
+Removed:
+	Minecraft Dungeons Enchanting (This was the beast breaking enchants and trading)
+	Farmer's addons (Causing crashes with MC Dungeons Weapons)

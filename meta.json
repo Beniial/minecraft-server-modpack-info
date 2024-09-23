@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "hotfixesFormat": null,
+  "versions": [
+    {
+      "id": "1.1.1",
+      "releasedAt": 1727125021,
+      "promotions": {
+      "downloads": {
+        "generic": "https://mega.nz/folder/DotXhKxL#qoKYQTFjzSuaQmKWF4at2Q"
+        }
+      }
+    }
+  ]
+}

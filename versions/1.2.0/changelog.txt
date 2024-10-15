@@ -1,0 +1,17 @@
+Version 1.2
+Added:
+- Create Deco
+- Cluttered
+- Clutter
+- Create Dreams and Desires
+- Bridging Mod
+- Signed Paintings
+- Create Cobblestone
+- Magnum Torch
+- Iris Flywheel Compatibility
+- Configured
+- Just Enough Professions
+Updated:
+- Modonomicon (1.77.3)
+- Immersive Aircraft (1.1.2)
+- Inventory Profiles Next (1.10.11)

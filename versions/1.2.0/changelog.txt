@@ -1,5 +1,5 @@
-Version 1.2
-Added:
+Version 1.2  
+{green}Added:{}  
 - Create Deco
 - Cluttered
 - Clutter
@@ -11,7 +11,8 @@ Added:
 - Iris Flywheel Compatibility
 - Configured
 - Just Enough Professions
-Updated:
+{orange}Updated:{}  
 - Modonomicon (1.77.3)
 - Immersive Aircraft (1.1.2)
-- Inventory Profiles Next (1.10.11)
+- Inventory Profiles Next (1.10.11)  
+Go to the download page with the **Generic** button above
